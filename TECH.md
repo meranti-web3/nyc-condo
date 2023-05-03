@@ -6,6 +6,7 @@ This NFT is:
 2. It includes an English style Auction mechanism
 3. It includes an escrow mechanism
 4. It includes a escape hatch to reset the auction in case something goes really wrong.
+5. It includes a time window mechanism for programming when the auction takes place.
 
 The UI:
 
