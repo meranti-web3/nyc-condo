@@ -6,7 +6,7 @@ This condo will be offered for sale as an NFT, which would be a first in Manhatt
 
 ## How to buy this property
 
-1. Navigate to [https://nyccondo.nft](https://nyccondo.nft)
+1. Navigate to [https://nyc-condo.co](https://nyc-condo.co)
 2. Connect your wallet
 3. Choose the Polygon zkEVM Network
 4. Make sure you have enough Ethereum to bid during the auction -> If you want to bid $1M and the current ETH price is $2,000, you need 500 ETH.
@@ -45,4 +45,4 @@ If you're interested in the technical aspect of this projet, follow the [TECH](T
 
 This is an Apache 2.0 open source license. You may reuse this under those terms.
 
-This project was initially created by Meranti Sàrl, a blockchain consulting firm in France. https://meranti.fr.
+This project was created by Meranti Sàrl, a Web3 consulting firm in France. https://meranti.fr.
